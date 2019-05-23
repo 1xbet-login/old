@@ -1,0 +1,56 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "1xbet home",
+    "description": "",
+    "home_page_url": "https://1xbet-home.com",
+    "feed_url": "https://1xbet-home.com/feed.json",
+    "user_comment": "",
+    "icon": "https://1xbet-home.com/media/website/1xbet-site-logo.png",
+    "author": {
+        "name": "1xbet"
+    },
+    "items": [
+        {
+            "id": "https://1xbet-home.com/best-site-for-betting/",
+            "url": "https://1xbet-home.com/best-site-for-betting/",
+            "title": "معرفی بهترین سایت برای شرط بندی مسابقات ورزشی",
+            "summary": "سایت های بسیار زیادی هستند که خدمات پیش بینی مسابقات ورزشی را ارائه میکنند. از سایت های ایرانی تا سایت های خارجی. یکی از بهترین سایت های خارجی که از کاربران ایرانی و فارسی زبان هم پشتیبانی میکند، سایت وان ایکس بت میباشد. این سایت&hellip;",
+            "image": "https://1xbet-home.com/media/posts/4/Sports-bet.jpg",
+            "author": {
+                "name": "1xbet"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-16T15:22:58+04:30",
+            "date_modified": "2019-05-16T15:33:14+04:30"
+        },
+        {
+            "id": "https://1xbet-home.com/access-to-1xbet-farsi/",
+            "url": "https://1xbet-home.com/access-to-1xbet-farsi/",
+            "title": "دسترسی به سایت وان ایکس بت فارسی",
+            "summary": "در سایت جهانی 1xbet انتخاب های متعددی از انواع پیش بینی و شرط بندی ورزشی وجود دارد و این دست شما را برای انجام هر نوع پیش بینی در هر رشته ورزشی باز نگه میدارد! سایت وان ایکس بت، با پشتیبانی کامل از کاربران ایرانی،&hellip;",
+            "image": "https://1xbet-home.com/media/posts/3/1xbet-official.jpg",
+            "author": {
+                "name": "1xbet"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-14T19:04:03+04:30",
+            "date_modified": "2019-05-14T19:05:58+04:30"
+        },
+        {
+            "id": "https://1xbet-home.com/what-is-1xbet/",
+            "url": "https://1xbet-home.com/what-is-1xbet/",
+            "title": "وان ایکس بت چیست؟",
+            "summary": "وان ایکس بت (1xBet) یک سایت پیش بینی مسابقات ورزشی میباشد. این سایت از کمپانی معتبر 1ایکس بت میباشد که از سال 1994 کار خود را آغاز کرد و از سال 2007 وارد اینترنت شد. این سایت هم اکنون از اکثر زبان های دنیا از&hellip;",
+            "image": "https://1xbet-home.com/media/posts/1/1xbet_photo.jpg",
+            "author": {
+                "name": "1xbet"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-05-10T18:34:18+04:30",
+            "date_modified": "2019-05-10T23:01:38+04:30"
+        }
+    ]
+}
